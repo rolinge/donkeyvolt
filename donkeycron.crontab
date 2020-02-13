@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/jetsonvolt.bash >/tmp/jetsonvolt.log 2>&1
